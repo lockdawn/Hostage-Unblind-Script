@@ -2,7 +2,7 @@
 
 “When the hostage sees the light again, the rescue is complete.”
 ---
-Arma 3 - Script para retirar la venda de los ojos del rehén
+#Arma 3 - Script para retirar la venda de los ojos del rehén
 
 “Cuando el rehén vuelve a ver la luz, el rescate está completo.”
 
