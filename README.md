@@ -1,6 +1,8 @@
-# Arma 3 – Hostage Blindfold Removal Script / Script para retirar la venda de los ojos del rehén
+# Arma 3
 
-“When the hostage sees the light again, the rescue is complete.” / “Cuando el rehén vuelve a ver la luz, el rescate está completo.”
+## Hostage Blindfold Removal Script / Script para retirar la venda de los ojos del rehén
+
+“When the hostage sees the light again, the rescue is complete.” - “Cuando el rehén vuelve a ver la luz, el rescate está completo.”
 
 ## Descripción general
 
